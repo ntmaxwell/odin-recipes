@@ -1,0 +1,1 @@
+I want to really use this opening project to learn git more than anything else. I am already familiar enough with HTML that this first project should be a breeze, so I should really use this time to understand GIT. Learn the various commands, practice writing good commit messages and WHEN to commit etc.
